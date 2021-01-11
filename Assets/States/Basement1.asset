@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Basement1
+  m_EditorClassIdentifier: 
+  gameText: Creaky stairs lead me down into pitch darkness. Following the wall, I
+    feel a loose switch hanging by open wires. It feels dangerous, but there might
+    be a lot of useful things down here if only I could see them. I can flick it
+    on or head back upstairs.
+  name: Basement
+  otherStates:
+  - {fileID: 11400000, guid: 4fea76c54265f1e4d9c3597b128a4753, type: 2}
+  - {fileID: 11400000, guid: 9c949139a1743204ba2948b6c5e70b79, type: 2}
+  - {fileID: 11400000, guid: 7bc11da336d71a54db7d3af807b77239, type: 2}
+  actions: 1

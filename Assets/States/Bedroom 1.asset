@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Bedroom 1
+  m_EditorClassIdentifier: 
+  gameText: The bedroom is a disaster. Piles of linen have been thrown around everywhere.
+    I brown sheet hangs from a light fixture accross from a wooden writing desk.
+    I doubt I will find anything of value in here, but I can try looking around.a
+  name: Bedroom
+  otherStates:
+  - {fileID: 11400000, guid: 1a7839a7eab79204a9ec2985cdb36fe2, type: 2}
+  - {fileID: 11400000, guid: f5e3420f38174b843bc502f4e04b8628, type: 2}
+  - {fileID: 11400000, guid: 7bc11da336d71a54db7d3af807b77239, type: 2}
+  actions: 1
+  addItems: 0
+  triggerMatches: 0

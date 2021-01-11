@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Hallway 2
+  m_EditorClassIdentifier: 
+  gameText: 'The hallway has 2 more doors: one to the bedroom and one leading to
+    a workshop. The bedroom might be a good place to hide out and rest for the night.
+    The workshop might be full of useful items. '
+  name: Hallway
+  otherStates:
+  - {fileID: 11400000, guid: ff78c80d43ff721458134ae5668168b9, type: 2}
+  - {fileID: 11400000, guid: 9fd689eba1f049d4f8a6d3bf98d0c39d, type: 2}
+  - {fileID: 11400000, guid: 7bc11da336d71a54db7d3af807b77239, type: 2}
+  actions: 1
+  addItems: 0
+  triggerMatches: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Run
+  m_EditorClassIdentifier: 
+  gameText: I make a break for it. Nothing around. Nothing can get me if I'm quick
+    and quiet. If I can stay undercover I can -                                                                                                                           
+    A horde lay waiting in the trees. They're all around me. The last thing I will
+    ever hear is the horrible shriek of the one right in front of me...
+  name: Run
+  otherStates:
+  - {fileID: 11400000, guid: d28e4e5d894e8684cadfd3c1ba679697, type: 2}
+  actions: 0
+  addItems: 0
+  triggerMatches: 0
+  triggerLantern: 0
+  triggerGun: 0
+  triggerKnife: 0
+  triggerGear: 0

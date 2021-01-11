@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Kitchen Drawer 1
+  m_EditorClassIdentifier: 
+  gameText: Rummaging through the drawers, I find a large knife. I feel more comfortable
+    exploring with this. I might have trouble carrying things with my knife hand
+    full. I'm gonna head back to the living room.
+  name: Check inside
+  otherStates:
+  - {fileID: 11400000, guid: ff6032768c3b9e048a4a9f238c428fe1, type: 2}
+  - {fileID: 11400000, guid: 7bc11da336d71a54db7d3af807b77239, type: 2}
+  actions: 3
+  addItems: 1
+  triggerMatches: 0
+  triggerLantern: 0
+  triggerGun: 0
+  triggerKnife: 1
+  triggerGear: 0

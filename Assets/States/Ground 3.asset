@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Ground 3
+  m_EditorClassIdentifier: 
+  gameText: I'm standing in the living room. An empty stone fireplace overlooks a
+    small coffee table surrounded by a loveseat and a lounge chair. A taxodermy bear
+    head hangs above an old hunting rifle. To the left, a doorway leads to a messy
+    kitchen. Straight ahead, a narrow hallway leads to a workshop and some bedrooms.
+  name: Living Room
+  otherStates:
+  - {fileID: 11400000, guid: c905cd04c43d1074283c6755b9dffc69, type: 2}
+  - {fileID: 11400000, guid: 29377d92b252b8d449f559381ea9bd70, type: 2}
+  - {fileID: 11400000, guid: 36fbf6632ed55174eaf54f7711092457, type: 2}
+  - {fileID: 11400000, guid: 7bc11da336d71a54db7d3af807b77239, type: 2}
+  actions: 1
+  addItems: 0
+  triggerMatches: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Bedroom search
+  m_EditorClassIdentifier: 
+  gameText: I rummage through the bedroom. As I trip over linens and choke on dust,
+    I find myself on the far side of the room. In the corner, next to the bedside
+    table, an oil lamp is sitting on the floor. The ignitor is broken but if I had
+    something to light it with, I could use this.
+  name: Search bedroom
+  otherStates:
+  - {fileID: 11400000, guid: a49ebebab116da84b9e3732823242aec, type: 2}
+  - {fileID: 11400000, guid: f5e3420f38174b843bc502f4e04b8628, type: 2}
+  - {fileID: 11400000, guid: 7bc11da336d71a54db7d3af807b77239, type: 2}
+  actions: 5
+  addItems: 0
+  triggerMatches: 0
+  triggerLantern: 0
+  triggerGun: 0
+  triggerKnife: 0
+  triggerGear: 0

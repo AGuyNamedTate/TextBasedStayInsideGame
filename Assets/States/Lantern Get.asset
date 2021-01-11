@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86916b90f670e894e82f8fb4f198a99e, type: 3}
+  m_Name: Lantern Get
+  m_EditorClassIdentifier: 
+  gameText: I take the lantern. Nothing left in here. I should explore more of the
+    house.
+  name: Take Lantern
+  otherStates:
+  - {fileID: 11400000, guid: f5e3420f38174b843bc502f4e04b8628, type: 2}
+  - {fileID: 11400000, guid: 7bc11da336d71a54db7d3af807b77239, type: 2}
+  actions: 1
+  addItems: 1
+  triggerMatches: 0
+  triggerLantern: 1
+  triggerGun: 0
+  triggerKnife: 0
+  triggerGear: 0
